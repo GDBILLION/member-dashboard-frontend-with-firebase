@@ -1,0 +1,1 @@
+export type DashboardTab = 'members' | 'activity';
